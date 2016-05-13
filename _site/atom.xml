@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Jan Ulferts</title>
+ <link href="http://janulferts.de/atom.xml" rel="self"/>
+ <link href="http://janulferts.de/"/>
+ <updated>2016-05-13T13:42:16+02:00</updated>
+ <id>http://janulferts.de</id>
+ <author>
+   <name>Jan Ulferts</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Hello World</title>
+   <link href="http://janulferts.de/2016/05/13/hello-world/"/>
+   <updated>2016-05-13T00:00:00+02:00</updated>
+   <id>http://janulferts.de/2016/05/13/hello-world</id>
+   <content type="html">&lt;p&gt;Just starting this. Lets see if i can find the time to start writing some interesting stuff over here.&lt;/p&gt;
+
+&lt;p&gt;But for now this is just a simple and stupid placeholder.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

@@ -1,0 +1,30 @@
+# Dependencies
+markdown:         kramdown
+kramdown:
+  input: GFM
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Jan Ulferts
+tagline:          Jan Ulferts
+description:      ''
+url:              http://janulferts.de
+gravatar:         https://avatars1.githubusercontent.com/u/1439410
+mail:             janu@cpan.org
+githubprofile:           fatz
+xing:             JanHenning_Ulferts
+linkedin:         jan-ulferts-05175883
+
+author:
+  name:           'Jan Ulferts'
+  url:            http://janulferts.de
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/fatz/fatz.github.io
